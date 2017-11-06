@@ -13,7 +13,7 @@ class Default:
         hostname = socket.gethostname()
         return """<html>
         <title>PyWebApp</title>
-        <body bgcolor="green">
+        <body bgcolor="red">
         <h1>Hello COMP4913!</h1>
         <p>Available API methods:</p>
         <ul>
